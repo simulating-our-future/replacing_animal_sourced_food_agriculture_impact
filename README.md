@@ -56,3 +56,15 @@ If we replaced 100% of animal-sourced products with plant-sourced products, we c
 
 ## Quotations
 
+Mekonnen, M.M. and Hoekstra, A.Y. (2010) The green, blue and grey water footprint of farm animals and animal products, Value of Water Research Report Series No. 48, UNESCO-IHE, Delft, the Netherlands.
+
+Mekonnen, M.M. and Hoekstra, A.Y. (2010) The green, blue and grey water footprint of crops and derived crop products, Value of Water Research Report Series No. 47, UNESCO-IHE, Delft, the Netherlands.
+
+Food and Agriculture Organization of the United Nations - FAOSTAT
+
+Poore, J., & Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers. Science, 360(6392), 987-992. ==> https://www.science.org/doi/10.1126/science.aaq0216
+
+https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=cait&historical-emissions-gases=all-ghg&historical-emissions-regions=All%20Selected&historical-emissions-sectors=total-including-lucf&page=1
+Citation,"Climate Watch Historical GHG Emissions. 2022. Washington, DC: World Resources Institute. Available online at: https://www.climatewatchdata.org/ghg-emissions"
+
+https://www.nhs.uk/common-health-questions/food-and-diet/what-should-my-daily-intake-of-calories-be/
