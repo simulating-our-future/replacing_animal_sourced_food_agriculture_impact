@@ -28,8 +28,17 @@ What I decided to take as hypothesis was that if animal-sourced food decreased, 
 So, we need to calculate how many more resources are needed to compensate this deficit and reach the same production as before, with manure.
 
 This is the logic : The more we decrease, the more resources we need to compensate.
+13% of total fertilizers come from manure.
+According to Stewart & al (2005), 40% on average of total crop yield is attributable to commercial fertilizers input.
+So, if we take this 40%, we get an increase of 66% due to fertilizers. (for example in 100 crop total production, 40 is due to fertilizers and 60 is not. 100/60 = 1.66, which is the 66% increase of getting to 100 vs starting with 60)
 
-The way to calculate this replacement is the following :
+This means that by adding fertilizers to agriculture, crop yields can increase up to 66%.
+Therefore, if we take 66% of the 13% of fertilizers from manure, it gives us the reference of 8,27%.
+The efficiency of manure is therefore 8,27% at 100% animal product reduction, if we reduce animal products by 50%, I assume that manure effect will only be 4,135%, at 0% it'll be 0% and production will not be affected by resource increase to compensate.
+
+This way, we can take this 8,27% value (or less if we increase animal product reduction), add 1 and multiply it on the resources (land, emissions, water) to compensate production for the loss in fertilizer. 
+
+Once we increase the resources by this manure coeficient, the way to calculate the replacement from animal-based products to plant-based products is the following :
 
 - We caculate the ratios between the category concerned (emissions etc...) and the production (separated between animal and plant)
 - We calculate the percentage of animal-sourced products that are replaced with plant-sourced products (75% for example)
@@ -69,3 +78,6 @@ https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-e
 Citation,"Climate Watch Historical GHG Emissions. 2022. Washington, DC: World Resources Institute. Available online at: https://www.climatewatchdata.org/ghg-emissions"
 
 https://www.nhs.uk/common-health-questions/food-and-diet/what-should-my-daily-intake-of-calories-be/
+
+Stewart & al (2005) The Contribution of Commercial Fertilizer Nutrients to Food Production - Agronomy Journal
+https://acsess.onlinelibrary.wiley.com/doi/abs/10.2134/agronj2005.0001
