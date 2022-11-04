@@ -52,7 +52,7 @@ It takes into account manure that decreases.
 
 ![newplot (9)](https://user-images.githubusercontent.com/117353586/199956152-cae4ea1d-8a5a-47c7-98c7-e43b243d0078.png)
 
-If we replaced 100% of animal-sourced products with plant-sourced products, we could save up to 65% in land use, 53% in greenhouse gas emissions, 18% in water use and still be above the NHS caloric recommendations to stay healthy.
+If we replaced 100% of animal-sourced products with plant-sourced products, we could save up to 65% in land use, 53% in greenhouse gas emissions, 18% in water use and still be above the NHS calorie intake recommendation to stay healthy.
 
 ## Quotations
 
