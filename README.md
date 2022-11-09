@@ -15,6 +15,7 @@ This analysis will concern 4 categories :
 
 In order to get our results, we separate data between animal-sourced products and plant-sourced products.
 Animal-sourced products do not contain production of fishery, only "in-land" animals.
+This analysis only concerns the "agriculture" part of food, other data (industrialization, packaging, transportation etc.) being hard to distinguish between animal and plant-based food. (data hard to get)
 
 Once we have the distinction between animal and plant products, we will be suming all the values to make the comparaison easier between these two categories.
 
