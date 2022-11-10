@@ -82,3 +82,9 @@ https://www.nhs.uk/common-health-questions/food-and-diet/what-should-my-daily-in
 
 Stewart & al (2005) The Contribution of Commercial Fertilizer Nutrients to Food Production - Agronomy Journal
 https://acsess.onlinelibrary.wiley.com/doi/abs/10.2134/agronj2005.0001
+
+UN World Water Development Report 2022
+https://www.unesco.org/reports/wwdr/2022/en/agriculture#:~:text=Summary&text=Currently%2070%25%20of%20global%20groundwater,is%20serviced%20by%20this%20resource.
+
+Land Use - Hannah Ritchie and Max Roser - Our World in Data
+https://ourworldindata.org/land-use
